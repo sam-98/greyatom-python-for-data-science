@@ -28,55 +28,6 @@ first_name,last_name = topper
 full_name = last_name +" " + first_name
 certificate_name = full_name.upper()
 print(certificate_name)
-# Concatenate both the strings
-
-
-# Append the list
-
-# Print updated list
-
-
-# Remove the element from the list
-
-# Print the list
-
-
-
-# Create the Dictionary
-
-
-
-# Slice the dict and stores  the all subjects marks in variable
-
-
-# Store the all the subject in one variable `Total`
-
-# Print the total
-
-# Insert percentage formula
-
-# Print the percentage
-
-
-
-
-# Create the Dictionary
- 
-
-
-
-# Given string
-
-
-# Create variable first_name 
-
-# Create variable Last_name and store last two element in the list
-
-# Concatenate the string
-
-# print the full_name
-
-# print the name in upper case
 
 # Code ends here
 
